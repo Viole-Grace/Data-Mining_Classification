@@ -1,5 +1,5 @@
 # Data-Mining_Classification
-A basic starter script for binary SVM classification using collborated weather data.
+A basic starter script for binary SVM classification using collaborated weather data.
 
 ### Pre-requisites : 
 - pandas
@@ -7,3 +7,6 @@ A basic starter script for binary SVM classification using collborated weather d
 - sklearn
 - seaborn
 - matplotlib
+
+### JUPYTER NOTEBOOK
+> run using cli or ipython terminal
